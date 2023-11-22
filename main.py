@@ -4,3 +4,5 @@ b = 9
 def sum(a,b)
     return(a+b)
 print(sum(a,b))
+
+print("zdes net nichego")
