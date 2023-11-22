@@ -6,3 +6,10 @@ def sum(a,b)
 print(sum(a,b))
 
 print("zdes net nichego")
+print("AAAAAAAAAAAA")
+
+print("Надо домой")
+
+print("Я всё")
+
+print("Пора бы слиться")
